@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Roman Semichev (@RomanIVVI)
 
 ### 👀 About Me
-I'm passionate about **aerospace engineering** and constantly exploring new technologies. My journey has led me to delve into the fascinating world of **front-end development for mobile apps**. I enjoy solving complex problems and bringing creative ideas to life through code.
+I'm passionate about **aerospace engineering** and constantly exploring new technologies. My journey has led me to delve into the fascinating world of **mobile app development**. I enjoy solving complex problems and bringing creative ideas to life through code.
 
 ### 🌱 What I'm Learning
 Currently, I'm focused on mastering **React Native** to build seamless and intuitive mobile applications. My goal is to create user-friendly interfaces that enhance the overall user experience.
