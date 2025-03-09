@@ -13,7 +13,7 @@ Currently, I'm focused on mastering **React Native** and its many libraries to b
 - **Concepts:** Component-based architecture, state management, responsive design
 
 ### 🐍 Fun Fact
-I have a pet snake, and I'm working on automating its terrarium! This project involves integrating sensors, temperature control, and automated feeding systems, combining my love for coding with my interest in reptiles.
+I have a pet snake, Chai, and I'm working on automating its terrarium! This project involves integrating sensors, temperature control, and automated feeding systems, combining my love for coding with my interest in reptiles.
 
 ### 📫 Let's Connect!
 - **Email:** roman@semichev.com
